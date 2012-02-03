@@ -19,3 +19,5 @@ public class HelloGoogleMaps extends MapActivity {
         return false;
     }
 }
+
+/*test de rapatriement*/
