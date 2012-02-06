@@ -18,6 +18,8 @@ public class HelloGoogleMaps extends MapActivity {
     protected boolean isRouteDisplayed() {
         return false;
     }
-}
-
 /*test de rapatriement*/
+
+public static final String Test_Branche4 = "Branche 4";
+
+}
