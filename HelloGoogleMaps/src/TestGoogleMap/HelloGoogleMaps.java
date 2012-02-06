@@ -21,3 +21,16 @@ public class HelloGoogleMaps extends MapActivity {
 }
 
 /*test de rapatriement*/
+
+/*test modif distance avec modif en cours en local*/
+
+class HelloLinearLayoutActivity extends Activity {
+    /** Called when the activity is first created. */
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+    }
+}
+
+/*fin test modif distance avec modif en cours en local*/
