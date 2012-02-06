@@ -20,4 +20,4 @@ public class HelloGoogleMaps extends MapActivity {
     }
 }
 
-/*test de rapatriement*/
+/*test de rapatriement : Test Ok*/
