@@ -1,0 +1,35 @@
+diff --git a/HelloGoogleMaps/src/TestGoogleMap/HelloGoogleMaps.java b/HelloGoogleMaps/src/TestGoogleMap/HelloGoogleMaps.java
+index d8b1ca7..6e00858 100644
+--- a/HelloGoogleMaps/src/TestGoogleMap/HelloGoogleMaps.java
++++ b/HelloGoogleMaps/src/TestGoogleMap/HelloGoogleMaps.java
+@@ -6,6 +6,7 @@
+ import Test.Google.Map.R;
+ import android.os.Bundle;
+ 
++
+ public class HelloGoogleMaps extends MapActivity {
+ 	@Override
+ 	public void onCreate(Bundle savedInstanceState){
+@@ -18,6 +19,21 @@
+     protected boolean isRouteDisplayed() {
+         return false;
+     }
+-}
++
+ 
+ /*test de rapatriement : Test Ok*/
++
++/*voici la version de la branche 1 pour le moment en local*/
++
++	public static final String TABLE_NAME = "test branche1";
++
++/*voici la version de la branche 1 pour le moment en local*/
++
++/*voici la version de la branche 2 pour le moment en local*/
++
++	public static final String Test_Branche = "test branche2";
++
++/*voici la version de la branche 2 pour le moment en local*/
++	
++}
++
